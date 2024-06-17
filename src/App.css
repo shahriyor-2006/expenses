@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    height: 100vh;
+    font-family: sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: all .3s;
+    
+}
+.dark{
+    background-color: black;
+    color: white;
+}
+.light{
+    background-color: #ffffff;
+    color: #000000;
+}
+
